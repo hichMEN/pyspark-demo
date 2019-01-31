@@ -1,0 +1,6 @@
+venv/
+.idea/other.xml
+.idea/vcs.xml
+docs/
+*.pyc
+/*.egg-info
