@@ -1,6 +1,6 @@
-venv/
-.idea/other.xml
-.idea/vcs.xml
-docs/
+/.idea
 *.pyc
 /*.egg-info
+/venv/
+/configuration/shakespeareWordCount.txt/
+/configuration/shakespeareWordCount/
